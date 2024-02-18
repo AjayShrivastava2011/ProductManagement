@@ -1,0 +1,26 @@
+
+.product-details {
+    margin-bottom: 20px; /* Adjust as needed */
+  }
+  
+  .form-group {
+    margin-bottom: 10px; /* Adjust as needed */
+  }
+  
+  label {
+    display: inline-block;
+    width: 120px; /* Adjust as needed */
+    font-weight: bold;
+  }
+  
+  span {
+    padding: 5px;
+    display: inline-block;
+  }
+  
+  /* Optional: Style for heading */
+  h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+  }
